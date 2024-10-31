@@ -1,3 +1,6 @@
+#Theme
+theme: jekyll-theme-minimal
+
 # Where things are
 source              : .
 destination         : ./_site
